@@ -26,14 +26,47 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 - Built scalable, multi-tenant distributed systems supporting real-time processing and integration with external vendor APIs.  
 - Collaborated with global teams across India and the US to deliver **healthcare, insurance, and automotive applications**.  
 
-**Key Projects**
-- **Fortune 500 healthcare/pharmaceutical company**: Cloud-ready distributed system modernized using .NET Core and Azure.
-- **Fortune 500 financial & life insurance company**: CMS-based responsive enterprise web applications with SDL Tridion and ASP.NET MVC.
-- **Car Remarketing Platform**: Azure-hosted automotive solution for multi-dealer integration and automated valuation workflows.
+---
+
+## 🧩 Key Projects  
+
+### 🏥 **Fortune 500 Healthcare / Pharmaceutical Company**  
+**Role:** Senior .NET Developer & Solution Designer  
+**Tech Stack:** .NET Core 5, Azure Functions, SQL Server, Docker, Angular, SSIS  
+
+- Designed and developed **cloud-ready distributed systems** that integrated multiple vendor and provider data sources.  
+- Modernized a legacy on-premise application into a **microservices-based Azure architecture**, improving scalability and uptime.  
+- Implemented **API-driven integration** for provider onboarding, claims processing, and logistics coordination for patient care programs.  
+- Improved system throughput by **35%** by optimizing SQL queries, caching layers, and asynchronous service communication.  
+- Collaborated with security teams to address **data protection, load testing, and compliance** requirements (HIPAA & SOC2).  
 
 ---
 
-## 🧩 Technical Expertise  
+### 💰 **Fortune 500 Financial & Life Insurance Company**  
+**Role:** .NET / CMS Developer  
+**Tech Stack:** ASP.NET MVC, SDL Tridion, C#, SQL Server, jQuery, HTML5, CSS3  
+
+- Developed and maintained **multi-site enterprise portals** supporting customer onboarding, product information, and policy management.  
+- Built reusable templates and components using **SDL Tridion CMS** to streamline content delivery across 10+ brand sites.  
+- Migrated legacy ASP.NET systems to MVC-based architecture with modern responsive design and accessibility compliance.  
+- Implemented **SEO optimization and sitemap automation**, improving organic reach and performance metrics.  
+- Automated content publishing workflows using **Core Services API**, reducing manual intervention by 60%.  
+
+---
+
+### 🚗 **Automotive Digital Remarketing Platform**  
+**Role:** Full Stack Developer  
+**Tech Stack:** .NET Core, React, SQL Server, Azure App Services, REST API  
+
+- Built a cloud-hosted **multi-dealer vehicle remarketing system** with automated valuation and bidding logic.  
+- Designed **REST APIs** for vehicle data ingestion, dealer analytics, and third-party marketplace integrations.  
+- Implemented role-based access control and **JWT-based authentication** for secure client communication.  
+- Enabled real-time data exchange using **SignalR**, improving dealer response time by 40%.  
+- Deployed with **CI/CD pipelines** in Azure DevOps for automated build, test, and release workflows.  
+
+---
+
+## 🧠 Technical Expertise  
 
 | **Category** | **Skills & Technologies** |
 |---------------|---------------------------|
