@@ -1,18 +1,32 @@
-# 👋 Hi, I'm Asahajit Dalui  
-### Senior .NET Developer | Azure Expert | Full Stack Developer  
+<!--
+🌐 GitHub Profile README for Asahajit Dalui
+Professional Portfolio & Introduction
+-->
 
-📍 Kolkata, India  
-📧 jeet.dalui555@gmail.com | 🌐 [asahajit.com](https://asahajit.com) | 💼 [LinkedIn](https://www.linkedin.com/in/asahajit/) | 🧑‍💻 [GitHub](https://github.com/asahajit)
+<p align="center">
+  <img src="https://asahajit.com/Asahajit.jpg" alt="Asahajit Dalui - Senior .NET Developer | Azure Expert" width="150px" hight="150px"/>
+</p>
+
+<h1 align="center">Asahajit Dalui</h1>
+<h3 align="center">Senior .NET Developer | Azure Expert | Full Stack Developer</h3>
+
+<p align="center">
+  📍 Kolkata, India • 
+  📧 <a href="mailto:jeet.dalui555@gmail.com">jeet.dalui555@gmail.com</a> • 
+  🌐 <a href="https://asahajit.com" target="_blank">asahajit.com</a> • 
+  💼 <a href="https://www.linkedin.com/in/asahajit/" target="_blank">LinkedIn</a> • 
+  🧑‍💻 <a href="https://github.com/asahajit" target="_blank">GitHub</a>
+</p>
 
 ---
 
 ## 🧠 About Me  
 
-I am a **Senior Full Stack .NET Developer** with over **9 years of experience** in **solution design, development, and integration** of enterprise-grade software using the **Microsoft technology stack** and modern frontend frameworks.  
+I’m a **Senior Full Stack .NET Developer** with over **9 years of experience** designing, developing, and integrating enterprise-grade applications using **Microsoft technologies** and **modern web frameworks**.  
 
-My core expertise includes **.NET Core**, **ASP.NET**, **Azure Cloud Solutions**, and **API development** for scalable and secure applications. I’m passionate about architecting clean, maintainable systems that balance performance and reliability.
+My technical expertise spans **.NET Core**, **ASP.NET**, **Azure Cloud**, and **REST API** development, complemented by hands-on experience in **system integration**, **microservices architecture**, and **CI/CD pipelines**.  
 
-Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, and enterprise-scale applications** across healthcare, insurance, and automotive domains.
+I currently work at **LTIMindtree**, leading projects for global clients across **healthcare**, **financial**, and **automotive** domains. My focus is building **scalable**, **secure**, and **cloud-native** applications that deliver measurable business value.
 
 ---
 
@@ -21,10 +35,10 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 ### **LTIMindtree — Senior Specialist, Software Engineering**  
 **March 2013 – Present**  
 
-- Lead architect and developer for **cloud-first enterprise solutions** using .NET Core, Azure Functions, and SQL Azure.  
-- Designed and implemented **microservices** and **serverless APIs** leveraging **Azure DevOps pipelines** for continuous delivery.  
-- Built scalable, multi-tenant distributed systems supporting real-time processing and integration with external vendor APIs.  
-- Collaborated with global teams across India and the US to deliver **healthcare, insurance, and automotive applications**.  
+- Lead design and implementation of **Azure-hosted microservices** using .NET Core and serverless technologies.  
+- Architected and deployed **multi-tenant distributed systems** for data-intensive enterprise clients.  
+- Developed secure, high-performing **RESTful APIs** and **workflow automation systems**.  
+- Collaborated with global teams to ensure delivery excellence, scalability, and compliance.
 
 ---
 
@@ -34,11 +48,10 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 **Role:** Senior .NET Developer & Solution Designer  
 **Tech Stack:** .NET Core 5, Azure Functions, SQL Server, Docker, Angular, SSIS  
 
-- Designed and developed **cloud-ready distributed systems** that integrated multiple vendor and provider data sources.  
-- Modernized a legacy on-premise application into a **microservices-based Azure architecture**, improving scalability and uptime.  
-- Implemented **API-driven integration** for provider onboarding, claims processing, and logistics coordination for patient care programs.  
-- Improved system throughput by **35%** by optimizing SQL queries, caching layers, and asynchronous service communication.  
-- Collaborated with security teams to address **data protection, load testing, and compliance** requirements (HIPAA & SOC2).  
+- Led modernization of on-premise legacy systems into **cloud-ready distributed architecture** on Azure.  
+- Developed APIs and integration layers to unify provider, logistics, and claims data across business units.  
+- Increased system throughput by **35%** using asynchronous processing and caching strategies.  
+- Collaborated with compliance teams to ensure **HIPAA and SOC2** data security standards.
 
 ---
 
@@ -46,11 +59,10 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 **Role:** .NET / CMS Developer  
 **Tech Stack:** ASP.NET MVC, SDL Tridion, C#, SQL Server, jQuery, HTML5, CSS3  
 
-- Developed and maintained **multi-site enterprise portals** supporting customer onboarding, product information, and policy management.  
-- Built reusable templates and components using **SDL Tridion CMS** to streamline content delivery across 10+ brand sites.  
-- Migrated legacy ASP.NET systems to MVC-based architecture with modern responsive design and accessibility compliance.  
-- Implemented **SEO optimization and sitemap automation**, improving organic reach and performance metrics.  
-- Automated content publishing workflows using **Core Services API**, reducing manual intervention by 60%.  
+- Designed and maintained **multi-site CMS-driven web portals** supporting policy management and customer engagement.  
+- Built reusable templates and automation pipelines using **SDL Tridion Core Services API**, reducing manual work by 60%.  
+- Migrated legacy ASP.NET applications to **MVC architecture** with responsive, SEO-optimized frontends.  
+- Delivered scalable, modular content architecture for 10+ enterprise web properties.
 
 ---
 
@@ -58,11 +70,10 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 **Role:** Full Stack Developer  
 **Tech Stack:** .NET Core, React, SQL Server, Azure App Services, REST API  
 
-- Built a cloud-hosted **multi-dealer vehicle remarketing system** with automated valuation and bidding logic.  
-- Designed **REST APIs** for vehicle data ingestion, dealer analytics, and third-party marketplace integrations.  
-- Implemented role-based access control and **JWT-based authentication** for secure client communication.  
-- Enabled real-time data exchange using **SignalR**, improving dealer response time by 40%.  
-- Deployed with **CI/CD pipelines** in Azure DevOps for automated build, test, and release workflows.  
+- Developed an **end-to-end vehicle remarketing system** supporting multi-dealer auctions and valuation workflows.  
+- Built secure **API gateways** and **real-time dashboards** for transaction monitoring.  
+- Integrated authentication, access control, and real-time messaging using **JWT** and **SignalR**.  
+- Automated deployment and testing pipelines using **Azure DevOps CI/CD**.
 
 ---
 
@@ -93,18 +104,17 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 
 ## 🏆 Achievements  
 
-- Recognized multiple times for **best solution design** and **team excellence** by clients and management.  
-- Developed **automated reusable components** in .NET and Tridion, improving delivery efficiency by 40%.  
-- Consistently rated as a top-performing engineer across project cycles.  
+- Recognized for **solution design and delivery excellence** by clients and management.  
+- Improved engineering productivity by developing **reusable .NET components** and **CI/CD pipelines**.  
+- Multiple **Team Excellence** and **Client Appreciation Awards**.  
 
 ---
 
 ## 🎯 Career Highlights  
 
-- Architected and deployed **multi-tenant Azure-based enterprise systems**.  
-- Led backend integration for **high-volume healthcare data services**.  
-- Delivered **secure RESTful APIs** and **automation frameworks** in .NET Core.  
-- Experienced in **client communication**, **Agile practices**, and **onshore-offshore coordination**.
+- Architected **multi-tenant, cloud-native enterprise applications**.  
+- Led **data integration** and **digital transformation** projects for Fortune 500 clients.  
+- Delivered **high-performance APIs**, **microservices**, and **automation tools** on Azure.  
 
 ---
 
@@ -124,4 +134,6 @@ Currently, I work with **LTIMindtree**, delivering **cloud-native, distributed, 
 
 ---
 
-> “I aim to deliver clean, scalable, and reliable software solutions that drive business transformation through technology.”
+<p align="center">
+  <i>“I aim to deliver clean, scalable, and reliable software solutions that drive business transformation through technology.”</i>
+</p>
